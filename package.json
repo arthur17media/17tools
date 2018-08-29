@@ -1,0 +1,10 @@
+{
+  "name": "17tools",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "newStartParser": "node ./tools/newStartParser"
+  },
+  "author": "arthur <arthur@17.media>",
+  "license": "MIT"
+}
